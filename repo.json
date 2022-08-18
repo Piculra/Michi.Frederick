@@ -13,10 +13,10 @@
             "Characters"
         ],
         "source": "https://www.reddit.com/user/FredbearFazbear_1983/comments/vcizlx/adventures_of_the_literature_club_archive/",
-        "dddg2Path": "http://localhost:4716/repo/Michi.Frederick/index.json",
+        "dddg2Path": "https://raw.githubusercontent.com/Piculra/Michi.Frederick/index.json",
         "description": "Chibi by Frederick (https://www.reddit.com/user/FredbearFazbear_1983), content pack assembled by Piculra",
         "preview": [
-            "http://localhost:4716/repo/Michi.Frederick/1.png"
+            "https://raw.githubusercontent.com/Piculra/Michi.Frederick/1.png"
         ],
         "searchWords": []
     },
