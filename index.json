@@ -11,7 +11,7 @@
     ],
     "name": "Michi",
     "internalId": "Michi",
-    "chibi": "./1.png",
+    "chibi": "./chibi.png",
     "styles": [
         {
             "name": "default",
