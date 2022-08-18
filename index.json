@@ -11,7 +11,7 @@
     ],
     "name": "Michi",
     "internalId": "Michi",
-    "chibi": "https://raw.githubusercontent.com/Piculra/Michi.Frederick/main/Chibi.png",
+    "chibi": "./1.png",
     "styles": [
         {
             "name": "default",
